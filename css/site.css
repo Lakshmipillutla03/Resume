@@ -30,14 +30,14 @@ html {
 .avatar {
   max-width: 216px;
   max-height: 216px;
-  margin-top: 20px;
+  margin-top: -10px;
   text-align: center;
   margin-left: auto;
   margin-right: auto; }
 
 .avatar img {
   /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%); }
+ }
 
 footer a:not(.nav-link) {
   color: inherit;
